@@ -15,7 +15,7 @@
     {
       "text": "meet a client",
       "day": "tomorow",
-      "reminder": false,
+      "reminder": true,
       "id": 1412
     }
   ]
